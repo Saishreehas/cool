@@ -1,0 +1,14 @@
+h1 {
+    color: sandybrown;
+}
+
+* {
+    border: solid;
+}
+
+.header{
+    background-color:darkorange;
+    display:flex;
+    justify-content: space-between ;
+
+}
